@@ -9,7 +9,7 @@
   <a href="https://space.bilibili.com/350371091"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/leer-31-68/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ruinwalker1" alt="访客统计" /></div>
+</div>
 
 &emsp;&emsp;  
 
@@ -17,9 +17,10 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 ## 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;I'am Chen</p>
-<p>&emsp;&emsp;A Computer Science Undergraduate Student studying in CSU</p>
+<p>&emsp;&emsp;A computer science undergraduate student studying in CSU</p>
 <p>&emsp;&emsp;Try to code some useful program</p> 
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p> 
+<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>   
+
 
 💪 正在学习:   
 
@@ -34,7 +35,6 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 ![OPENCV](https://img.shields.io/badge/opencv-%234257.svg?style=style=flat-square&logo=opencv&logoColor=white)
 ![yolo](https://img.shields.io/badge/yolo-%2300f.svg?style=style=flat-square&logo=yolo&logoColor=white)
 
-&emsp;
 
 🧠 计划学习:  
 
@@ -46,7 +46,6 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Vue](https://img.shields.io/badge/Vue-red.svg?style=style=flat-square&logo=html5&logoColor=white)
 
-&emsp;
 
 🧰 常用的工具:  
 
@@ -76,17 +75,3 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 <br></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ruinwalker7&show_icons=true&theme=dark&count_private=true)
 
-<!--
-**Ruinwalker7/Ruinwalker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
