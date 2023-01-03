@@ -2,10 +2,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=435&lines=Hello%2C+World!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E8%BE%B0" alt="Typing SVG" /></a>
 </h1>
 
+<div align="center">
+  <a href=""><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/350371091"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/leer-31-68/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Ruinwalker7" alt="访客统计" /></div>
 
+&emsp;&emsp;  
 
 My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker7/count.svg)  visitor
-### 🙋 Hello
+## 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;I'am Chen</p>
 <p>&emsp;&emsp;A Computer Science Undergraduate Student studying in CSU</p>
