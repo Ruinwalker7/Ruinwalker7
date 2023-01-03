@@ -1,9 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-- I'am Ruinwalker  
-  - A Computer Science Undergraduate Student  
-  - Studying C/C++, Python
+![Visitor Count](https://profile-counter.glitch.me/Ruinwalker7/count.svg)  
+### I'am Ruinwalker  
+- A Computer Science Undergraduate Student  
+- Studying C/C++, Python  
 
+<br></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ruinwalker7&show_icons=true&theme=dark&count_private=true)
 
 <!--
