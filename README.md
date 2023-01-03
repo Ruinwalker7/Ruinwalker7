@@ -4,7 +4,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/Ruinwalker7/count.svg)  
+My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker7/count.svg)  visitor
 ### 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;I'am Chen</p>
@@ -12,8 +12,9 @@
 <p>&emsp;&emsp;Try to code some useful program</p> 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p> 
 
-💪 正在学习: 
-&emsp;
+💪 正在学习:   
+
+&emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -26,8 +27,9 @@
 
 &emsp;
 
-🧠 计划学习:
-&emsp;
+🧠 计划学习:  
+
+&emsp;&emsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
@@ -37,8 +39,9 @@
 
 &emsp;
 
-🧰 常用的工具:
-&emsp;
+🧰 常用的工具:  
+
+&emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
@@ -46,7 +49,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Gitee](https://img.shields.io/badge/-gitee-red?style=flat-square&logo=gitee)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)  
+
+
+&emsp;&emsp;
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
 
 <br></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ruinwalker7&show_icons=true&theme=dark&count_private=true)
