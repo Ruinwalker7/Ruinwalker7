@@ -33,6 +33,8 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![OPENCV](https://img.shields.io/badge/opencv-%234257.svg?style=style=flat-square&logo=opencv&logoColor=white)
 ![yolo](https://img.shields.io/badge/yolo-%2300f.svg?style=style=flat-square&logo=yolo&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Vue](https://img.shields.io/badge/Vue-red.svg?style=style=flat-square&logo=html5&logoColor=white)
 
 
 🧠 计划学习:  
@@ -42,8 +44,7 @@ My![Visitor Count](https://profile-counter.glitch.me/Ruinwalker1/count.svg)  vis
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Vue](https://img.shields.io/badge/Vue-red.svg?style=style=flat-square&logo=html5&logoColor=white)
+
 
 
 🧰 常用的工具:  
